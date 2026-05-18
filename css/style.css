@@ -3,9 +3,13 @@
 {
 margin: 0;
 padding: 0;
-font-weight: normal;
+
 list-style-type: none;
 text-decoration: none;
-color: #000;
-font-size: 18px;
+
+}
+ul li{
+   
+    padding: 5px;
+  
 }
